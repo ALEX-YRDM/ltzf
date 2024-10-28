@@ -1,1 +1,2 @@
-# 蓝图支付Java-SDK
+# 蓝兔支付Java-SDK
+https://www.ltzf.cn/doc
